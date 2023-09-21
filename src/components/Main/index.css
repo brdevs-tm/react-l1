@@ -275,7 +275,7 @@ hr {
   align-items: center;
   justify-content: space-between;
 
-  .article-buttons {
+  > .article-buttons {
     display: flex;
     align-items: center;
     gap: 30px;
