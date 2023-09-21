@@ -1,0 +1,47 @@
+.free-quote-btn {
+  padding: 17px 24px;
+  border-radius: 14px;
+  background: #0075ff;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  transition: all 0.5s;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  -ms-border-radius: 14px;
+  -o-border-radius: 14px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+}
+
+.free-quote-btn-2 {
+  padding: 26px 40px;
+  border-radius: 14px;
+  background: #0075ff;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  transition: all 0.5s;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  -ms-border-radius: 14px;
+  -o-border-radius: 14px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+}
+
+.free-quote-btn:hover,
+.free-quote-btn-2:hover {
+  box-shadow: 0px 4px 10px 20px rgba(20, 20, 43, 0.04);
+  transform: translateY(10px);
+  -webkit-transform: translateY(10px);
+  -moz-transform: translateY(10px);
+  -ms-transform: translateY(10px);
+  -o-transform: translateY(10px);
+}
